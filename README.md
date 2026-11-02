@@ -1,2 +1,2 @@
 # A-Rough-Multivariable-Model-of-Energy-Loss-in-Badminton-Racket-Shuttlecock-Collisions
-A rough empirical model to estimate the kinetic energy loss of a shuttle colliding with a badminton racket taking into account tension of the racket and a location index.
+This paper aims to model the energy loss of a shuttlecock during collision with a badminton racket using a multivariable function dependent on the impact location on the string bed and the string tension of the racket.
